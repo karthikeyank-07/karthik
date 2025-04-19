@@ -1,4 +1,3 @@
-# karthik
 <h1 align="center">Hi 👋, I'm Karthikeyan K</h1>
 <h3 align="center">A passionate penetration Tester form India...</h3>
 
